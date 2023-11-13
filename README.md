@@ -1,4 +1,4 @@
-# portfolio-sim-website
+# My Portfolio website
 
 A simple website with a home page and a form page.
 
